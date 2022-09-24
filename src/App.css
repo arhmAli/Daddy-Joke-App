@@ -1,0 +1,10 @@
+.App{
+  display: flex;
+  align-items:center;
+  justify-content: center;
+  height: 100vh;
+  background: rgb(255,0,5);
+background: linear-gradient(132deg, rgba(255,0,5,1) 0%, rgba(240,123,123,1) 50%, rgba(97,57,160,1) 50%, rgba(116,166,255,1) 100%);
+font-family: 'Crimson Text', serif;
+color: rgb(66, 65, 65);
+}
